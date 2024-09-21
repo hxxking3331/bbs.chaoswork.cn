@@ -1,1 +1,1 @@
-# hertz.services
+# pwned ez
